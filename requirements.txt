@@ -1,4 +1,4 @@
-PyYAML==3.10
+PyYAML==5.1
 -e git+https://github.com/docker/docker-py.git@70ce156e26d283d181e6ec10bd1309ddc1da1bbd#egg=docker-py
 dockerpty==0.3.2
 docopt==0.6.1
